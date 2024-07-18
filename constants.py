@@ -2,7 +2,9 @@
 Simulation Constants
 """
 
-
+"""
+some changes here
+"""
 class SimColor:
 """
 Tuples corresponding to RGB colors
@@ -15,7 +17,9 @@ Tuples corresponding to RGB colors
     RECOVERED = (0, 160, 0)
     UNEXPOSED = (0, 120, 240)
 
-
+"""
+and here
+"""
 class Disease:
 """
 Constants for disease
